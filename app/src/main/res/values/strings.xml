@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkoutTimerApp</string>
+    <string name="last_info">You have done %2s for %1s. </string>
+</resources>
